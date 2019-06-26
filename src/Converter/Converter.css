@@ -21,6 +21,7 @@
     margin: 5px 10px;
     border-radius: 5px;
     border: 1px solid rgba(119, 119, 119, 0.5);
+    cursor: pointer;
 }
 
 .Form button {
@@ -32,6 +33,7 @@
     margin: 0px 11px;
     letter-spacing: 0.1em;
     font-weight: 700;
+    cursor: pointer;
 }
 
 .Converter h3 {
@@ -41,3 +43,6 @@
     font-size: 1.7em;
 }
 
+.switch {
+    cursor: pointer;
+}
